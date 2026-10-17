@@ -1,0 +1,68 @@
+# ОС и мусор
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Редакторы
+.vscode/
+.idea/
+*.iml
+.vs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.mypy_cache/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Node
+node_modules/
+.next/
+*.log
+npm-debug.log*
+
+# Java
+target/
+*.class
+.gradle/
+out/
+
+# C / C++ и сборка
+*.o
+*.obj
+*.lo
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# LaTeX
+*.aux
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Офисные временные файлы
+~$*
+
+# Переменные окружения и локальные настройки
+.env
+.env.*
+!.env.example
+*.local
+
+# Прочее
+*.bak
+*.tmp
+
+# Состояние инструментов
+.serena/

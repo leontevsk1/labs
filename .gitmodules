@@ -1,0 +1,6 @@
+[submodule "csae-report"]
+	path = csae-report
+	url = https://gitlab.com/c4190/csae-report
+[submodule "report_template_typst"]
+	path = report_template_typst
+	url = https://github.com/leontevsk1/report_template_typst
